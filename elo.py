@@ -1,1 +1,1 @@
-print("siema mordy")
+print("siema mordy hehehehe")
